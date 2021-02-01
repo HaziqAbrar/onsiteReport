@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Haziq Abrar",
+        "Date": "2021-01-30",
+        "starttime": "13:42",
+        "endtime": "17:37",
+        "purpose": "Creating a CRUD system for a secretary to record onsite activity of team members. The Delete action should be soft delete. ",
+        "place": "Site A",
+        "tools": "PHP and JSON",
+        "id": 1730588
+    }
+]
