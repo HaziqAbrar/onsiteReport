@@ -12,6 +12,7 @@ Further improvements could include:
 5. Display Date and Time in an easier format
 6. Fix styling for list(index.php) in mobile view
 7. Organize file 
+8. JSON file validation (whether json file exist or not0)
 
 Development info:
 1. VSCode used
